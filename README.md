@@ -5,7 +5,7 @@ This is a Drum Kit project designed to simulate an actual drum set.
 
 
 # Visit site:
-https://shyam-sundar-reddy.github.io/DRUM-KIT/
+https://shyam-sundar-reddy.github.io/DRUM---KIT/
 
 
 ## image:
